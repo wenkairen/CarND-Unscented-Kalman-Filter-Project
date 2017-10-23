@@ -1,4 +1,4 @@
-# Unscented Kalman Filter Project Starter Code
+# Unscented Kalman Filter Project
 Self-Driving Car Engineer Nanodegree Program
 
 In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project reburic. 
@@ -12,6 +12,6 @@ In this project utilize an Unscented Kalman Filter to estimate the state of a mo
 ## Test Result
 Based on the dataset 1 result, the error graph is shown below:
 
-![result.png](https://github.com/wenkairen/CarND-Extended-Kalman-Filter-Project/blob/master/CarND-Extended-Kalman-Filter-Project/result.png)
+![ukf_result.png](https://github.com/wenkairen/CarND-Unscented-Kalman-Filter-Project/blob/master/ukf_result.png)
 
 the output of the result satidfiy the RMSE <= [.09, .10, .40, .30]. requirement.
